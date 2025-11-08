@@ -41,7 +41,8 @@ LiteHouse/
 ## Getting Started
 1. Flash firmware to STM32F103C8T6 using ST-Link 
 2. Power hardware (USB or regulated adapter) 
-3. Pair phone with **HC-06** (PIN: 1234 / 0000) 
+3. Pair phone with **HC-06** (PIN: 1234 / 0000)
+4. Download app on the MIT APP INVENTOR of any browser by adding the files .aia to MIT APP INVENTOR   
 4. Send command via Bluetooth app to control devices 
 
 ## Demo
