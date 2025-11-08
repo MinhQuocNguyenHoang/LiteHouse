@@ -73,7 +73,7 @@ Home Appliances (Lights / LCD / ...)
 - Voice assistant integration (Google Home/Alexa) 
 
 ## Author
-Nguyễn Hoàng Minh Quốc 
-Nguyễn Kim Thành 
-Mạc Quang Khải 
+Nguyễn Hoàng Minh Quốc<br>
+Nguyễn Kim Thành<br> 
+Mạc Quang Khải<br>
 
