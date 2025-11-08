@@ -38,6 +38,25 @@ LiteHouse/
 
 ```
 
+## Features
+- Wireless ON/OFF control of home appliances(door, led, LCD) 
+- Real-time status feedback from STM32 
+- UART-based Bluetooth protocol processing 
+- Integrated emergency situation when there is a gas leak or fire, all doors will open automatically and send a warning to the app 
+
+## Functional Diagram
+```
+[Smartphone App]
+|
+Bluetooth (HC-06)
+|
+STM32F103C8T6 MCU
+|
+Relay Driver Board
+|
+Home Appliances (Lights / LCD / ...)
+```
+
 ## Getting Started
 1. Flash firmware to STM32F103C8T6 using ST-Link 
 2. Power hardware (USB or regulated adapter) 
